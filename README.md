@@ -1,10 +1,5 @@
 ### Hola 👋
 
-<!--
-**franciscomilanr/franciscomilanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Siempre estoy estudiando ...
 - 🌱 Soy estudiante universitario ...
 - 👯 Estudio en universidad uvm ...
@@ -13,4 +8,8 @@ Here are some ideas to get you started:
 - 📫 Ocupado todo el tiempo ...
 - 😄 Me divierto creando programas ...
 - ⚡ Tambien se usar Java...
+<!--
+**franciscomilanr/franciscomilanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 -->
